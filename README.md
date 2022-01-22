@@ -1,7 +1,7 @@
 # GYHODatathon
 
 
-## Data Preprocessing
+## Data Preprocessing (Brendan Lee)
 
 
-## Data Visualization and Analysis
+## Data Visualization and Analysis (Kong Yuki)
