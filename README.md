@@ -10,3 +10,9 @@ We first streamlined and cleaned the data into processable segments python NLTK,
 ## Data Visualization and Analysis (Kong Yuki)
 
 We then used PowerBI and Azure ML’s Sentiment Analysis API to obtain visualizations and the the sentiment score for each feedback.
+
+## Projected Improvements
+
+Linking the Google Translate API to python to perform the translation on-site.
+
+To link the cleaning and processing code in Python to PowerBI to seamlessly transform cleaned data into insightful visualizations
