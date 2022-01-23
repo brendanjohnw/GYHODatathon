@@ -14,5 +14,7 @@ We then used PowerBI and Azure ML’s Sentiment Analysis API to obtain visualiza
 ## Projected Improvements
 
 Linking the Google Translate API to python to perform the translation on-site.
-
 To link the cleaning and processing code in Python to PowerBI to seamlessly transform cleaned data into insightful visualizations
+
+## Requirements
+ Google Cloud Translate API Key and AzureML Sentiment Analysis API Key required
