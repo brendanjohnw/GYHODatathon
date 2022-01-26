@@ -16,4 +16,8 @@ Linking the Google Translate API to python to perform the translation on-site.
 To link the cleaning and processing code in Python to PowerBI to seamlessly transform cleaned data into insightful visualizations
 
 ## Requirements
- Google Cloud Translate API Key and AzureML Sentiment Analysis API Key required
+
+```
+  pip install -r requirements.txt
+
+```
