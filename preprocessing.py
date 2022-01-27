@@ -25,7 +25,7 @@ def bridge_API():
              'https://www.googleapis.com/auth/spreadsheets',
              'https://www.googleapis.com/auth/drive.file',
              'https://www.googleapis.com/auth/drive']
-    credentials = ServiceAccountCredentials.from_json_keyfile_name("rhb-project-339208-947e7de8b753.json", scope)
+    credentials = ServiceAccountCredentials.from_json_keyfile_name("YOUR SERVICE ACCOUNT JSON FILE", scope)
     client= gspread.authorize(credentials)
     sheet = client.open("Feedback Sheet Translated").sheet1
 
