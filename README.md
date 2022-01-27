@@ -25,5 +25,6 @@ To link the cleaning and processing code in Python to PowerBI to seamlessly tran
 3. In preprocessing.py under the bridge_API method, change the client credentials to the name of your JSON file
 4. Run scheduler.py
 5. If you wish to change the time interval, go to constants.py and change TIME_INTERVAL_MINUTES to any time interval in minutes you wish.
-6. Ensure that the csv file that is produced by the code is pointed to by powerBI
-7. In powerBI change the source file to the file generated.
+   Default value is set to 10 minutes.
+7. Ensure that the csv file that is produced by the code is pointed to by powerBI
+8. In powerBI change the source file to the file generated.
